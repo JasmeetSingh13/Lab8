@@ -1,0 +1,49 @@
+<resources>
+
+
+
+
+    <!--setting-->
+    <string name="remember_tip_percent">Remember the score?</string>
+    <string name="remember_tip_summary">remember the score.</string>
+    <string name="rounding_title">Change Score by ?</string>
+    <string name="rounding_summary">Score change by 1, 2, 3</string>
+    <string-array name="rounding_keys">
+        <item>By 2</item>
+        <item>By 4</item>
+        <item>By 6</item>
+    </string-array>
+    <string-array name="rounding_values">
+        <item>2</item>
+        <item>4</item>
+        <item>6</item>
+    </string-array>
+
+    <string name="rounding_default">1</string>
+
+
+    <string name="app_name">ScoreKeeperSolution</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="title_string">ScoreKeeper</string>
+    <string name="teamA_title_string">Team A</string>
+    <string name="teamB_title_string">Team B</string>
+    <string name="increase_string">+</string>
+    <string name="decrease_string">-</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>
